@@ -5,7 +5,7 @@ accounts:
  message: "Welcome to EazyBank accounts related Prod APIs "
  contactDetails:
   name: "Joe - Production Specialist"
-  email: "Joe@eazybank.com"
+  email: "(cipher)6b135a6f54a4f83298efa1958efa072f7a6dc4d50ecfaa520f454435dbf15ff9d10c61db521231dc2b8745cd8d6bedbc"
  onCallSupport:
   - (555) 555-1234
   - (555) 523-1345
